@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Esta es mi tienda
+
+### Las herramientas utilizadas son:
+- react
+- firebase
+- formik
+- yup
+
+![](/public/vite.svg)
+
+[Babel](https://babeljs.io/)
+
+```
+npm i formik
+```
+
+```javascript
+
+const sumar = (n1, n2)=>{
+    return n1 +´n2
+}
+
+console.log("hola")
+
+```# Proyecto
+>>>>>>> 9be0f24521ad83d0cecede2a8cd65dd51bed9098
